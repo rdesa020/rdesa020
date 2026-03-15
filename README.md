@@ -4,7 +4,7 @@
 
 I build intelligent systems that turn messy data and complex workflows into simple tools.
 
-Currently working with **FIVE10X**, where I design and develop **AI-driven automation tools, data pipelines, and intelligent dashboards** used to streamline analytics, reporting, and decision-making.
+Currently working with **FIVE10x**, where I design and develop **AI-driven automation tools, data pipelines, and intelligent dashboards** used to streamline analytics, reporting, and decision-making.
 
 My work focuses on combining **machine learning, LLMs, and software engineering** to build practical AI products.
 
